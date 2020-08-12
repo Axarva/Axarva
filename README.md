@@ -8,7 +8,7 @@
            text-align:center;
            ">This is the github page of a Linux enthusiast.</h1>
 
-<img src="github.jpg" alt="An image">
+<img src="./github.jpg" alt="An image">
 
 <blockquote><em>"It's a large large world;<br>
                  However far you get, there's always some more...<br>

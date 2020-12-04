@@ -23,8 +23,8 @@
                  Beware, not everything is good;<br>
                  BUT LINUX IS GOOOD!!!"<br>
   </em></blockquote>-->
-<p> A Linux noob and enthusiast, as you may call me.
-  I am currently a Gentoo Linux and Arch Linux user, so feel free to ask me questions as well,
+<p> A Linux amateur and enthusiast, as you may call me.
+  I am currently a Gentoo Linux user, so feel free to ask me questions as well,
   to which I'll help you to the best of my capabilities!
 </p>
 <p>Also, I do web development as well.

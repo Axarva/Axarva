@@ -23,11 +23,10 @@
                  Beware, not everything is good;<br>
                  BUT LINUX IS GOOOD!!!"<br>
   </em></blockquote>-->
-<p> A Linux amateur and enthusiast, as you may call me.
-  I am currently a Gentoo Linux user. Feel free to ask me questions as well,
-  to which I'll help you to the best of my capabilities!
+<p> A Linux amateur and enthusiast.
+  I am currently a Gentoo Linux user. That's it. The ultimate flex, or so I heard. Heh.
 </p>
-<p>Also, I do web development as well.
-    Do check out the repos!(most are just foo tho)
+<p>Also, I do web development as well. Or at least I used to.
+   Check out the repos (most are just foo tho)
 </p>
 </body>

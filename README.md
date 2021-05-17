@@ -1,5 +1,6 @@
-# Hello There 
-## (Idk what to say, please don't blame me)
+<div align="center">
+  <h1>Hello There </h1>
+  <h2>(Idk what to say, please don't blame me)</h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Axarva&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axarva&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,4 +12,5 @@
 <p>Also, I do web development as well. Or at least I used to.
    Check out the repos (most are just foo tho)
 </p>
+</div>
 </body>

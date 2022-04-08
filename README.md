@@ -5,7 +5,7 @@
 
 <br><a href="https://www.learnenough.com/certificates/Atharva"><img src="https://www.learnenough.com/certificates/Atharva/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/Atharva"><img src="https://www.learnenough.com/certificates/Atharva/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/Atharva"><img src="https://www.learnenough.com/certificates/Atharva/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/Atharva"><img src="https://www.learnenough.com/certificates/Atharva/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/Atharva"><img src="https://www.learnenough.com/certificates/Atharva/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/Atharva"><img src="https://www.learnenough.com/certificates/Atharva/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
  <p>
-   I'm Atharva, a student, Linux enthusiast, amateur, Haskeller and whatnot. (Also a ricer, oops.)
+   I'm Atharva, a student, Linux enthusiast and Haskeller. (Also a ricer.)
  </p>
    
 </div>
